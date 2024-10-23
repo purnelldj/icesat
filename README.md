@@ -5,7 +5,7 @@ sample scripts for downloading and plotting ICESAT-2 canopy height data
 ## installation
 
 ```bash
-gti clone ...
+git clone https://github.com/purnelldj/icesat
 cd icesat
 conda env create
 conda activate icesat
